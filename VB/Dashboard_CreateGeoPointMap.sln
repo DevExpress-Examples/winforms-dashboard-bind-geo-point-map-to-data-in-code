@@ -1,4 +1,4 @@
-Microsoft Visual Studio Solution File, Format Version 11.00
+﻿Microsoft Visual Studio Solution File, Format Version 11.00
 # Visual Studio 2010
 Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "Dashboard_CreateGeoPointMap", "Dashboard_CreateGeoPointMap\Dashboard_CreateGeoPointMap.vbproj", "{1B7D5E84-E3A4-40BC-B283-9B292B86995A}"
 EndProject
