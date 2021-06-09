@@ -29,4 +29,4 @@ This example demonstrates how to bind a [Geo Point Map dashboard item](https://d
 * [How to bind a Gauge dashboard item to data in code](https://github.com/DevExpress-Examples/how-to-bind-a-gauge-dashboard-item-to-data-in-code-e4771)
 * [How to bind a Pie dashboard item to data in code](https://github.com/DevExpress-Examples/how-to-bind-a-pie-dashboard-item-to-data-in-code-e4769)
 * [How to bind a Pivot dashboard item to data in code](https://github.com/DevExpress-Examples/how-to-bind-a-pivot-dashboard-item-to-data-in-code-e4772)
-* [How to bind a Geo Point Map dashboard item to data in code](https://github.com/DevExpress-Examples/how-to-bind-a-geo-point-map-dashboard-item-to-data-in-code-e5036)
+* [How to bind a Choropleth Map dashboard item to data in code](https://github.com/DevExpress-Examples/how-to-bind-a-choropleth-map-dashboard-item-to-data-in-code-e5010)
