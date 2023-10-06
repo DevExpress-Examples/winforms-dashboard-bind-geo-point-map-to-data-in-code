@@ -4,12 +4,7 @@
 [![](https://img.shields.io/badge/📖_How_to_use_DevExpress_Examples-e9f6fc?style=flat-square)](https://docs.devexpress.com/GeneralInformation/403183)
 <!-- default badges end -->
 <!-- default file list -->
-*Files to look at*:
-
-* [Form1.cs](./CS/Dashboard_CreateGeoPointMap/Form1.cs) (VB: [Form1.vb](./VB/Dashboard_CreateGeoPointMap/Form1.vb))
-<!-- default file list end -->
 # How to Bind a Geo Point Map Dashboard Item to Data at Runtime
-
 
 This example demonstrates how to bind a [Geo Point Map dashboard item](https://docs.devexpress.com/Dashboard/16505) to data in code.
 
@@ -19,6 +14,9 @@ This example demonstrates how to bind a [Geo Point Map dashboard item](https://d
 
 - [Binding to Data](https://docs.devexpress.com/Dashboard/116771) 
 - [Dashboard Items](https://docs.devexpress.com/Dashboard/116521)
+
+## Files to Review
+* [Form1.cs](./CS/Dashboard_CreateGeoPointMap/Form1.cs) (VB: [Form1.vb](./VB/Dashboard_CreateGeoPointMap/Form1.vb))
 
 ## More Examples 
 
